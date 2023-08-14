@@ -1,4 +1,4 @@
-# Hey, my name is Igor 👋
+## Hey, my name is Igor 👋
 I am a java developer from St. Petersburg.  
 I am passionate about solving complex professional tasks, especially if it makes people's lives easier.  
 I try to upload interesting projects to the repository. I will be glad if you are interested in them!  
