@@ -13,7 +13,12 @@ To contact me, please, follow social links.
 *   JUnit, AssertJ 
 *   Docker, Docker Compose, Maven 
 *   Postman, Insomnia, Swagger 
-*   Git, GitHub 
+*   Git, GitHub
+
+### Other Skills
+*   English B2
+*   Working in a team
+*   Negotiating with the customer
   
 ### Current Projects 
 * [java-explore-with-me](https://github.com/Iregor/java-explore-with-me) - An application for joint participation in events 
