@@ -5,7 +5,7 @@ I try to upload interesting projects to the repository. I will be glad if you ar
   
 To contact me, please, follow social links.  
 
-### 🛠 Tech Stack
+### Tech Stack
 *   Java Core 
 *   Spring Framework, Spring Boot 
 *   JDBC, JPA, Hybernate ORM, Spring Data, Query DSL 
